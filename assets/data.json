@@ -1,0 +1,22 @@
+[
+  {
+    "code": "AUI001",
+    "isbn": "1234-1232-4233",
+    "title": "Buku Anak",
+    "description": "deskripsi buku anak",
+    "category": "anak",
+    "publish_date": "2022-01-01",
+    "price": 25000,
+    "hard_cover": false
+  },
+  {
+    "code": "AUI002",
+    "isbn": "4124-4323-5323",
+    "title": "Buku IPA",
+    "description": "deskripsi buku ipa",
+    "category": "pendidikan",
+    "publish_date": "2020-12-12",
+    "price": 40000,
+    "hard_cover": false
+  }
+]
